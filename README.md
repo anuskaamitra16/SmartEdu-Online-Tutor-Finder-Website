@@ -25,6 +25,8 @@ To get started with the SmartEdu project, clone the repository and set up the re
 
 ```bash
 git clone https://github.com/your-username/SmartEdu-Online-Tutor-Finder-Website.git
+```
+```bash
 cd SmartEdu-Online-Tutor-Finder-Website
 ```
 
