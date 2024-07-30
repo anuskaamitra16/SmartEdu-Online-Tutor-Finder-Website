@@ -26,6 +26,7 @@ To get started with the SmartEdu project, clone the repository and set up the re
 ```bash
 git clone https://github.com/your-username/SmartEdu-Online-Tutor-Finder-Website.git
 cd SmartEdu-Online-Tutor-Finder-Website
+```
 
 ### Setup
 Ensure you have a local server setup (e.g., XAMPP or WAMP).
