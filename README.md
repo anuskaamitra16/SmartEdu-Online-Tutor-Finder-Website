@@ -36,10 +36,16 @@ Import the MySQL database schema from smartedu.sql into your database.
 Update database connection settings in config.php.
 
 ### Contributing
-Feel free to contribute to the project by submitting pull requests or reporting issues. Please ensure your changes are well-documented.
+We welcome contributions to enhance ComfyNest! To contribute, follow these steps:
+
+- Fork the repository.
+- Create a new branch: git checkout -b feature-branch-name
+- Commit your changes: git commit -m 'Add some feature'
+- Push to the branch: git push origin feature-branch-name
+- Open a pull request.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or inquiries, please contact me at mitraanuskaa@gmail.com.
