@@ -36,7 +36,7 @@ Import the MySQL database schema from smartedu.sql into your database.
 Update database connection settings in config.php.
 
 ### Contributing
-We welcome contributions to enhance ComfyNest! To contribute, follow these steps:
+We welcome contributions to enhance SMARTEdu! To contribute, follow these steps:
 
 - Fork the repository.
 - Create a new branch: git checkout -b feature-branch-name
